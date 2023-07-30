@@ -8,7 +8,7 @@
 # 🔒 Safety is our priority. 
 - Tipcord ensures that your assets are protected with encrypted private keys and a secure environment for worry-free tipping.
 
-Bot-Invite Link: https://discord.com/oauth2/authorize?permissions=347200&scope=bot+applications.commands&client_id=1134177162270871562
+Bot-Invite Link: https://discord.com/oauth2/authorize?permissions=347200&scope=bot+applications.commands&client_id=1134177162270871562 or host it yourself :)
 
 Example transaction: 
 
