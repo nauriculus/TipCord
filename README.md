@@ -8,9 +8,9 @@
 # 🔒 Safety is our priority. 
 - Tipcord ensures that your assets are protected with encrypted private keys and a secure environment for worry-free tipping.
 
-Examples: 
+Example transaction: 
+
 ![Screenshot (1842)](https://github.com/nauriculus/TipCord/assets/24634581/1ad06f83-bd6b-487e-9981-efc457b9090d)
-![Uploading Screenshot (1844).png…]()
 
 # Demo
 A demo video can be found here: https://www.youtube.com/watch?v=EOEIXyqYOs0
