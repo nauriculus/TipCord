@@ -14,5 +14,8 @@ Example transaction:
 
 ![Screenshot (1842)](https://github.com/nauriculus/TipCord/assets/24634581/1ad06f83-bd6b-487e-9981-efc457b9090d)
 
+INFO: 
+When sending tips / withdrawals make sure you have enough SOL to cover transaction fees and don't use the maximum SOL amount as withdrawal amount as some lamports are required for gas. 
+
 # Demo
 A demo video can be found here: https://www.youtube.com/watch?v=EOEIXyqYOs0
