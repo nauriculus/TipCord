@@ -24,8 +24,6 @@ public class TipCord {
 	public static void main(String[] args) throws InterruptedException {
 		// The JDABuilder is used to create a new instance of a JDA bot with the given API key
 		builder = JDABuilder.createDefault("KEY");
-		// Enables the GatewayIntent for GUILD_MEMBERS
-		builder.enableIntents(GatewayIntent.GUILD_MEMBERS);
 
 		// Sets the status of the bot to ONLINE
 		builder.setStatus(OnlineStatus.ONLINE);
