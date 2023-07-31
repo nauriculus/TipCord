@@ -28,6 +28,7 @@ public class TipCordAdapter {
 	public static boolean checkIfWalletExists(String userUUID) {
 	    try {
 	        // Create a TrustManager that trusts all certificates
+		// Make sure to implement your own certificates here, as right now we trust all.
 	        TrustManager[] trustAllCerts = new TrustManager[] {
 	            new X509TrustManager() {
 	                @Override
