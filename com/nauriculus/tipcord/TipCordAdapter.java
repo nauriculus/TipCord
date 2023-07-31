@@ -28,7 +28,7 @@ public class TipCordAdapter {
 	public static boolean checkIfWalletExists(String userUUID) {
 	    try {
 	        // Create a TrustManager that trusts all certificates
-		// Make sure to implement your own certificates here, as right now we trust all.
+		// Make sure to implement your own certificates here, as right now we trust all for testing purposes only
 	        TrustManager[] trustAllCerts = new TrustManager[] {
 	            new X509TrustManager() {
 	                @Override
@@ -50,6 +50,7 @@ public class TipCordAdapter {
 	        };
 	        
 	        // Create an SSLContext that uses the TrustManager to trust all certificates
+		// Make sure to implement your own certificates here, as right now we trust all for testing purposes only
 	        SSLContext sc = SSLContext.getInstance("SSL");
 	        sc.init(null, trustAllCerts, new java.security.SecureRandom());
 	        HttpsURLConnection.setDefaultSSLSocketFactory(sc.getSocketFactory());
@@ -99,6 +100,7 @@ public class TipCordAdapter {
 	public static String getWalletWithoutPIN(String userUUID) {
 	    try {
 	        // Create a TrustManager that trusts all certificates
+		// Make sure to implement your own certificates here, as right now we trust all for testing purposes only
 	        TrustManager[] trustAllCerts = new TrustManager[] {
 	            new X509TrustManager() {
 	                @Override
@@ -182,6 +184,7 @@ public class TipCordAdapter {
 	    try {
 	        
 	        // Create trust manager that trusts all certificates
+		// Make sure to implement your own certificates here, as right now we trust all for testing purposes only
 	        TrustManager[] trustAllCerts = new TrustManager[] {
 	            new X509TrustManager() {
 	                @Override
