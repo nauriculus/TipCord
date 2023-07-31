@@ -7,7 +7,7 @@
 - 💫 But it doesn't stop there! Tipcord empowers you to introduce your friends to the wonders of Solana as well. Share the joy of tipping with your friends and let them onboard into the realm of Solana crypto. It's not just about tipping; it's about fostering a supportive community and spreading the crypto cheer!
 
 # 🔒 Safety is our priority. 
-- Tipcord ensures that your assets are protected with encrypted private keys and a secure environment for worry-free tipping.
+- Tipcord ensures that your assets are protected with encrypted private keys and a secure environment.
 
 - Bot-Invite Link: https://discord.com/oauth2/authorize?permissions=347200&scope=bot+applications.commands&client_id=1134177162270871562 or host it yourself :)
 
