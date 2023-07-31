@@ -14,6 +14,10 @@ Example transaction:
 
 ![Screenshot (1842)](https://github.com/nauriculus/TipCord/assets/24634581/1ad06f83-bd6b-487e-9981-efc457b9090d)
 
+# Setup
+Install all npm packages for the TipCordAPI, change the mysql credentials and SSL keys and run it using npm e.g npm start TipCordAPI.js
+For the discord bot you will also need to create a new one here: discord.com/developers/applications and replace the Key inside the TipCord.java class.
+
 INFO: 
 When sending tips / withdrawals make sure you have enough SOL to cover transaction fees and don't use the maximum SOL amount as withdrawal amount as some lamports are required for gas. 
 
