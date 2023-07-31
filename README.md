@@ -1,9 +1,9 @@
 # TipCord
 - Tipcord welcomes everyone to the world of crypto, even those new to the concept! Whether you're a Discord enthusiast or a crypto beginner, this software is designed to make tipping with Solana an enjoyable and user-friendly experience.
+- With the adaptable REST-API design, this system can seamlessly integrate into a wide array of platforms, unlocking limitless possibilities for implementation.
+🎉 For Discord users not yet familiar with crypto, Tipcord serves as a friendly introduction to the exciting world of Solana. Easily manage your SOL, even if you're new to the game! No complex procedures - just simple commands to get started with a secure wallet and access to the world of tipping.
 
-- 🎉 For Discord users not yet familiar with crypto, Tipcord serves as a friendly introduction to the exciting world of Solana. Easily manage your SOL, even if you're new to the game! No complex procedures - just simple commands to get started with a secure wallet and access to the world of tipping.
-
-- 💫 But it doesn't stop there! Tipcord empowers you to introduce your friends to the wonders of Solana as well. Share the joy of tipping with your friends and let them onboard into the realm of Solana crypto. It's not just about tipping; it's about fostering a supportive community and spreading the crypto cheer!
+💫 But it doesn't stop there! Tipcord empowers you to introduce your friends to the wonders of Solana as well. Share the joy of tipping with your friends and let them onboard into the realm of Solana crypto. It's not just about tipping; it's about fostering a supportive community and spreading the crypto cheer!
 
 # 🔒 Safety is our priority. 
 - Tipcord ensures that your assets are protected with encrypted private keys and a secure environment for worry-free tipping.
